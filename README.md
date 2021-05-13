@@ -1,2 +1,2 @@
 # SoP
-Website for SoP and LoP
+Website for SoP and LoR
